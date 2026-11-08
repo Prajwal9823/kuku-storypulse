@@ -92,3 +92,4 @@ Every candidate underwent automated mathematical verification across 10 determin
 1. **Universal Screenplay Portability:** The architecture contains zero hardcoded show names, episode counts, or fixed character registries. Ingesting any new season ZIP file dynamically reconstructs the narrative graph and discovers top promos in < 15 seconds.
 2. **Multi-Tier AI Resilience (Deterministic + Cloud LLM):** Operates completely offline with 100% deterministic mathematical scoring, while supporting pluggable LLM reasoning (OpenAI, Gemini, Groq, Ollama) via a unified provider interface for human-like editorial explanations.
 3. **Real-Time Human-in-the-Loop Studio:** The live Next.js editorial suite allows video editors to drag timeline handles to trim sub-second boundaries, inspect 7-dimension Promo DNA radar charts, review automated QC badges, and export final broadcast packages to CSV, JSON, and PDF.
+

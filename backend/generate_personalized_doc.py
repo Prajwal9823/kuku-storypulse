@@ -336,3 +336,4 @@ def build_pdf(output_pdf_path: str):
 if __name__ == "__main__":
     out_path = "results/reports/Prajwal_Ramteke_Kuku_StoryPulse_Solution_Document.pdf"
     build_pdf(out_path)
+
