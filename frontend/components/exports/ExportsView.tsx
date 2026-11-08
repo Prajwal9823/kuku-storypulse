@@ -116,7 +116,7 @@ export const ExportsView: React.FC = () => {
               </div>
 
               <a
-                href={item.endpoint}
+                href={`/exports/${item.filename}`}
                 download={item.filename}
                 className="w-full flex items-center justify-center gap-2 px-3 py-2 rounded-lg bg-surface-subtle hover:bg-violet-glow text-slate-200 hover:text-white border border-surface-border hover:border-violet-glow text-xs font-semibold transition-all shadow-sm"
               >

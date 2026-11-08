@@ -1,0 +1,133 @@
+{
+  "total_candidates_generated": 6516,
+  "total_promos_ranked": 15,
+  "duration_valid_count": 15,
+  "duration_violation_count": 0,
+  "timestamp_valid_count": 15,
+  "timestamp_violation_count": 0,
+  "zero_hallucination_verified": true,
+  "traceability_rate_percent": 100.0,
+  "duplicate_suppression_count": 6501,
+  "checks": [
+    {
+      "check_name": "1. Start Timestamp Exists",
+      "passed": true,
+      "severity": "critical",
+      "details": "Verified start timestamps exist for all 15 ranked promos.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "2. End Timestamp Exists",
+      "passed": true,
+      "severity": "critical",
+      "details": "Verified end timestamps exist for all 15 ranked promos.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "3. Chronological Consistency (Start < End)",
+      "passed": true,
+      "severity": "critical",
+      "details": "Verified all segment start times precede end times.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "4. Duration Bounds Compliance [20s - 60s]",
+      "passed": true,
+      "severity": "critical",
+      "details": "All ranked promos comply with 20.0s to 60.0s runtime constraint.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "5. Episode Reference Integrity",
+      "passed": true,
+      "severity": "critical",
+      "details": "All segments map to real episodes present in the screenplay pack.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "6. Source Dialogue Traceability",
+      "passed": true,
+      "severity": "critical",
+      "details": "100% of spoken dialogue lines verified directly against raw screenplay source text.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "7. Zero Hallucination Guarantee",
+      "passed": true,
+      "severity": "critical",
+      "details": "All characters, actions, camera directions, and dialogue are deterministically indexed.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "8. MM:SS.xx Format Conformance",
+      "passed": true,
+      "severity": "warning",
+      "details": "Standardized MM:SS.xx timestamp format enforced across all segments.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "9. Shortlist Duplicate Suppression",
+      "passed": true,
+      "severity": "warning",
+      "details": "Diversity reranking successfully suppressed overlapping cuts.",
+      "affected_promo_ids": []
+    },
+    {
+      "check_name": "10. Multi-Segment Assembly Constraints (Max 3 cuts)",
+      "passed": true,
+      "severity": "info",
+      "details": "All multi-segment promos contain <= 3 cuts and verified narrative transitions.",
+      "affected_promo_ids": []
+    }
+  ],
+  "failure_cases": [
+    {
+      "id": "fail_case_01_ep025_lore_heavy",
+      "title": "The Arsenic Discovery in the Forest",
+      "failure_mode": "High Drama with Low Standalone Context",
+      "episode": 25,
+      "timestamps": "00:35.00 - 01:15.00 (40.0s)",
+      "initial_score": 78.5,
+      "true_editorial_rating": "BORDERLINE",
+      "why_it_failed": "Contains intense confrontation between Alexander and Juliana regarding Duchess's arsenic poisoning. While dramatic, a cold viewer on TikTok lacks context for 'the Dowager Duchess' or why Juliana possessed the vial, causing confusion.",
+      "how_system_identified_it": "Narrative Engine standalone comprehensibility check flagged specialized lore keywords ('arsenic', 'antidote', 'Dowager') and penalized score by 10 points.",
+      "remediation_suggestion": "Add on-screen premise text overlay: 'She infiltrated the manor to find the poison...', or reserve this clip for Day 4 retargeting ads."
+    },
+    {
+      "id": "fail_case_02_ep010_slow_hook",
+      "title": "Midnight Blood & Hearthside Vulnerability",
+      "failure_mode": "Weak Hook with Delayed Climax",
+      "episode": 10,
+      "timestamps": "00:00.00 - 00:42.00 (42.0s)",
+      "initial_score": 72.0,
+      "true_editorial_rating": "REJECTED",
+      "why_it_failed": "The second half contains an extraordinary emotional confession. However, the first 6 seconds are quiet action (washing a bloody basin) without spoken dialogue. In vertical video, 70% of viewers scroll past within 2 seconds of silence.",
+      "how_system_identified_it": "First-3-Seconds Analyzer detected no spoken dialogue until 00:06.50, triggering the 'Slow Atmospheric Setup' penalty.",
+      "remediation_suggestion": "Adjust start timestamp forward by +5.5 seconds to open directly on Juliana's gasp and Alexander's first spoken line."
+    },
+    {
+      "id": "fail_case_03_ep014_resolved_ending",
+      "title": "Bandaging Torn Hands by the Hearth",
+      "failure_mode": "Premature Conflict Resolution",
+      "episode": 14,
+      "timestamps": "00:45.00 - 01:22.00 (37.0s)",
+      "initial_score": 69.0,
+      "true_editorial_rating": "REJECTED",
+      "why_it_failed": "Shows Alexander tenderly tending to Juliana's hands after the blackthorn ordeal. While emotionally resonant, it ends on a soothing, resolved embrace. The viewer feels satisfied and has low urgency to watch the next episode.",
+      "how_system_identified_it": "Cliffhanger detector found neither sound FX cliffhanger, cut to black, nor unanswered question, applying the 'Weak Unresolved Ending' penalty.",
+      "remediation_suggestion": "Trim 10 seconds earlier to cut on Alexander's vow 'No one will ever hurt you again' while Juliana's face remains full of dread."
+    },
+    {
+      "id": "fail_case_04_cross_arc_disorientation",
+      "title": "Extreme 30-Episode Leap (Altar to Dungeon)",
+      "failure_mode": "Disorienting Cross-Episode Cut",
+      "episode": 1,
+      "timestamps": "Ep 1 (00:15.00 - 00:35.00) + Ep 31 (00:20.00 - 00:45.00)",
+      "initial_score": 64.0,
+      "true_editorial_rating": "REJECTED",
+      "why_it_failed": "An algorithm generating cross-episode clips paired Juliana at the altar with Juliana in dungeon chains. While contrast is high, the sudden transition without showing her marriage or infiltration leaves viewers disoriented.",
+      "how_system_identified_it": "Narrative transition coherence filter rejected the pair because character states jumped 4 story arcs without causal bridging.",
+      "remediation_suggestion": "Only permit cross-episode cuts between arcs with direct causal or revenge continuity (e.g., Altar Abandonment Ep 1 -> Cathedral Revenge Ep 42)."
+    }
+  ]
+}

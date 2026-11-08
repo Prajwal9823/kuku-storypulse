@@ -1,0 +1,872 @@
+{
+  "nodes": [
+    {
+      "id": "char_juliana",
+      "label": "Lady Juliana",
+      "node_type": "character",
+      "metadata": {
+        "role": "Protagonist",
+        "traits": "Resilient, Defiant, Compassionate, Master Herbalist"
+      }
+    },
+    {
+      "id": "char_alexander",
+      "label": "Alexander (Duke of Ashburn)",
+      "node_type": "character",
+      "metadata": {
+        "role": "Romantic Lead / Hero",
+        "traits": "Stoic, Lethal, Deeply Loyal, Rightful Duke"
+      }
+    },
+    {
+      "id": "char_catherine",
+      "label": "Lady Catherine",
+      "node_type": "character",
+      "metadata": {
+        "role": "Lead Antagonist",
+        "traits": "Machiavellian, Cruel, Ambitious, Vindictive"
+      }
+    },
+    {
+      "id": "char_gerald",
+      "label": "Gerald Harrington",
+      "node_type": "character",
+      "metadata": {
+        "role": "Antagonist",
+        "traits": "Vain, Treacherous, Cowardly, Spiteful"
+      }
+    },
+    {
+      "id": "char_clarissa",
+      "label": "Clarissa",
+      "node_type": "character",
+      "metadata": {
+        "role": "Antagonist",
+        "traits": "Sadistic, Conceited, Spiteful, Jealous"
+      }
+    },
+    {
+      "id": "char_rupert",
+      "label": "Rupert",
+      "node_type": "character",
+      "metadata": {
+        "role": "Antagonist",
+        "traits": "Usurper, Ruthless, Treasonable, Arrogant"
+      }
+    },
+    {
+      "id": "char_dowager_duchess",
+      "label": "Dowager Duchess",
+      "node_type": "character",
+      "metadata": {
+        "role": "Ally / Catalyst",
+        "traits": "Noble, Enduring, Protective Mother"
+      }
+    },
+    {
+      "id": "char_father_thomas",
+      "label": "Father Thomas",
+      "node_type": "character",
+      "metadata": {
+        "role": "Antagonist",
+        "traits": "Hypocritical, Corrupt, Opportunistic"
+      }
+    },
+    {
+      "id": "arc_1",
+      "label": "The Altar Betrayal & The Outcast's Vow",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 1-6",
+        "conflict": "Social abandonment & familial betrayal vs quiet dignity",
+        "tone": "Humiliation, Defiance, Hopeful Resilience"
+      }
+    },
+    {
+      "id": "arc_2",
+      "label": "Cottage Trials & The Blackthorn Ordeal",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 7-17",
+        "conflict": "Cruel aristocratic harassment vs sacrificial marital devotion",
+        "tone": "Cruelty, Sacrificial Love, Protective Vengeance"
+      }
+    },
+    {
+      "id": "arc_3",
+      "label": "Arson, Manor Infiltration & The Poisoned Duchess",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 18-28",
+        "conflict": "Usurpation & covert murder vs daring espionage and healing",
+        "tone": "Danger, Suspense, Uncovering High Treason"
+      }
+    },
+    {
+      "id": "arc_4",
+      "label": "Witchcraft Frame-up & The Damp Cell Ordeal",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 29-38",
+        "conflict": "Ruthless tyranny & judicial fabrication vs unyielding moral courage",
+        "tone": "Dread, Sadism, Indomitable Will, Brewing Retribution"
+      }
+    },
+    {
+      "id": "arc_5",
+      "label": "Cathedral Shattered: The Duke's Retribution",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 39-45",
+        "conflict": "Triumphant justice and rightful return vs arrogant usurpers",
+        "tone": "Triumph, Catharsis, Supreme Vindication, Romance"
+      }
+    },
+    {
+      "id": "arc_6",
+      "label": "The Ecclesiastical Challenge & Catherine's Descent",
+      "node_type": "arc",
+      "metadata": {
+        "episodes": "Ep 46-50",
+        "conflict": "Institutional corruption & desperate subversion vs rightful sovereignty",
+        "tone": "Machiavellian Intrigue, Scandal, Forbidden Secrets, Suspense"
+      }
+    },
+    {
+      "id": "ev_ep1_altar_betrayal",
+      "label": "Ep 1: Altar Betrayal",
+      "node_type": "event",
+      "metadata": {
+        "episode": "1"
+      }
+    },
+    {
+      "id": "conf_ep1_public_humiliation",
+      "label": "Public Humiliation",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "1"
+      }
+    },
+    {
+      "id": "conseq_ep1_accepts_soldier's_proposal",
+      "label": "Accepts Soldier's Proposal",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "1"
+      }
+    },
+    {
+      "id": "ev_ep7_mockery_at_cottage",
+      "label": "Ep 7: Mockery at Cottage",
+      "node_type": "event",
+      "metadata": {
+        "episode": "7"
+      }
+    },
+    {
+      "id": "conf_ep7_arrogant_harassment",
+      "label": "Arrogant Harassment",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "7"
+      }
+    },
+    {
+      "id": "conseq_ep7_alexander_drives_them_off",
+      "label": "Alexander Drives Them Off",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "7"
+      }
+    },
+    {
+      "id": "ev_ep13_blackthorn_briar_ordeal",
+      "label": "Ep 13: Blackthorn Briar Ordeal",
+      "node_type": "event",
+      "metadata": {
+        "episode": "13"
+      }
+    },
+    {
+      "id": "conf_ep13_sadistic_torture",
+      "label": "Sadistic Torture",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "13"
+      }
+    },
+    {
+      "id": "conseq_ep13_juliana_proves_indomitable",
+      "label": "Juliana Proves Indomitable",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "13"
+      }
+    },
+    {
+      "id": "ev_ep16_garden_defense",
+      "label": "Ep 16: Garden Defense",
+      "node_type": "event",
+      "metadata": {
+        "episode": "16"
+      }
+    },
+    {
+      "id": "conf_ep16_mercenary_ambush",
+      "label": "Mercenary Ambush",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "16"
+      }
+    },
+    {
+      "id": "conseq_ep16_gerald_unmasked_as_mastermind",
+      "label": "Gerald Unmasked as Mastermind",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "16"
+      }
+    },
+    {
+      "id": "ev_ep25_arsenic_poisoning",
+      "label": "Ep 25: Arsenic Poisoning",
+      "node_type": "event",
+      "metadata": {
+        "episode": "25"
+      }
+    },
+    {
+      "id": "conf_ep25_slow_murder_of_duchess",
+      "label": "Slow Murder of Duchess",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "25"
+      }
+    },
+    {
+      "id": "conseq_ep25_juliana_hides_antidote",
+      "label": "Juliana Hides Antidote",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "25"
+      }
+    },
+    {
+      "id": "ev_ep31_witchcraft_frame",
+      "label": "Ep 31: Witchcraft Frame",
+      "node_type": "event",
+      "metadata": {
+        "episode": "31"
+      }
+    },
+    {
+      "id": "conf_ep31_red-hot_iron_torture",
+      "label": "Red-Hot Iron Torture",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "31"
+      }
+    },
+    {
+      "id": "conseq_ep31_alexander_vows_vengeance",
+      "label": "Alexander Vows Vengeance",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "31"
+      }
+    },
+    {
+      "id": "ev_ep42_cathedral_gate_assault",
+      "label": "Ep 42: Cathedral Gate Assault",
+      "node_type": "event",
+      "metadata": {
+        "episode": "42"
+      }
+    },
+    {
+      "id": "conf_ep42_wedding_usurpation",
+      "label": "Wedding Usurpation",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "42"
+      }
+    },
+    {
+      "id": "conseq_ep42_reclaims_dukedom_&_crowns_juliana",
+      "label": "Reclaims Dukedom & Crowns Juliana",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "42"
+      }
+    },
+    {
+      "id": "ev_ep46_marriage_invalidation",
+      "label": "Ep 46: Marriage Invalidation",
+      "node_type": "event",
+      "metadata": {
+        "episode": "46"
+      }
+    },
+    {
+      "id": "conf_ep46_ecclesiastical_challenge",
+      "label": "Ecclesiastical Challenge",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "46"
+      }
+    },
+    {
+      "id": "conseq_ep46_10-day_council_reprieve",
+      "label": "10-Day Council Reprieve",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "46"
+      }
+    },
+    {
+      "id": "ev_ep50_affair_with_father_thomas",
+      "label": "Ep 50: Affair with Father Thomas",
+      "node_type": "event",
+      "metadata": {
+        "episode": "50"
+      }
+    },
+    {
+      "id": "conf_ep50_covert_conspiracy",
+      "label": "Covert Conspiracy",
+      "node_type": "conflict",
+      "metadata": {
+        "episode": "50"
+      }
+    },
+    {
+      "id": "conseq_ep50_witnessed_by_agnes",
+      "label": "Witnessed by Agnes",
+      "node_type": "reveal",
+      "metadata": {
+        "episode": "50"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "char_gerald",
+      "target": "char_juliana",
+      "relation": "Betrayal",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_alexander",
+      "target": "char_juliana",
+      "relation": "Spousal & Romance",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_clarissa",
+      "target": "char_juliana",
+      "relation": "Rivalry & Sadism",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_catherine",
+      "target": "char_juliana",
+      "relation": "Mortal Enmity",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_rupert",
+      "target": "char_alexander",
+      "relation": "Usurpation",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_catherine",
+      "target": "char_father_thomas",
+      "relation": "Treasonous Affair",
+      "weight": 1.0,
+      "episode": null
+    },
+    {
+      "source": "char_juliana",
+      "target": "ev_ep1_altar_betrayal",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 1
+    },
+    {
+      "source": "ev_ep1_altar_betrayal",
+      "target": "conf_ep1_public_humiliation",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 1
+    },
+    {
+      "source": "conf_ep1_public_humiliation",
+      "target": "conseq_ep1_accepts_soldier's_proposal",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 1
+    },
+    {
+      "source": "char_gerald",
+      "target": "ev_ep7_mockery_at_cottage",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 7
+    },
+    {
+      "source": "ev_ep7_mockery_at_cottage",
+      "target": "conf_ep7_arrogant_harassment",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 7
+    },
+    {
+      "source": "conf_ep7_arrogant_harassment",
+      "target": "conseq_ep7_alexander_drives_them_off",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 7
+    },
+    {
+      "source": "char_clarissa",
+      "target": "ev_ep13_blackthorn_briar_ordeal",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 13
+    },
+    {
+      "source": "ev_ep13_blackthorn_briar_ordeal",
+      "target": "conf_ep13_sadistic_torture",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 13
+    },
+    {
+      "source": "conf_ep13_sadistic_torture",
+      "target": "conseq_ep13_juliana_proves_indomitable",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 13
+    },
+    {
+      "source": "char_alexander",
+      "target": "ev_ep16_garden_defense",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 16
+    },
+    {
+      "source": "ev_ep16_garden_defense",
+      "target": "conf_ep16_mercenary_ambush",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 16
+    },
+    {
+      "source": "conf_ep16_mercenary_ambush",
+      "target": "conseq_ep16_gerald_unmasked_as_mastermind",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 16
+    },
+    {
+      "source": "char_catherine",
+      "target": "ev_ep25_arsenic_poisoning",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 25
+    },
+    {
+      "source": "ev_ep25_arsenic_poisoning",
+      "target": "conf_ep25_slow_murder_of_duchess",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 25
+    },
+    {
+      "source": "conf_ep25_slow_murder_of_duchess",
+      "target": "conseq_ep25_juliana_hides_antidote",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 25
+    },
+    {
+      "source": "char_catherine",
+      "target": "ev_ep31_witchcraft_frame",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 31
+    },
+    {
+      "source": "ev_ep31_witchcraft_frame",
+      "target": "conf_ep31_red-hot_iron_torture",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 31
+    },
+    {
+      "source": "conf_ep31_red-hot_iron_torture",
+      "target": "conseq_ep31_alexander_vows_vengeance",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 31
+    },
+    {
+      "source": "char_alexander",
+      "target": "ev_ep42_cathedral_gate_assault",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 42
+    },
+    {
+      "source": "ev_ep42_cathedral_gate_assault",
+      "target": "conf_ep42_wedding_usurpation",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 42
+    },
+    {
+      "source": "conf_ep42_wedding_usurpation",
+      "target": "conseq_ep42_reclaims_dukedom_&_crowns_juliana",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 42
+    },
+    {
+      "source": "char_high_priest",
+      "target": "ev_ep46_marriage_invalidation",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 46
+    },
+    {
+      "source": "ev_ep46_marriage_invalidation",
+      "target": "conf_ep46_ecclesiastical_challenge",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 46
+    },
+    {
+      "source": "conf_ep46_ecclesiastical_challenge",
+      "target": "conseq_ep46_10-day_council_reprieve",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 46
+    },
+    {
+      "source": "char_catherine",
+      "target": "ev_ep50_affair_with_father_thomas",
+      "relation": "participates_in",
+      "weight": 1.0,
+      "episode": 50
+    },
+    {
+      "source": "ev_ep50_affair_with_father_thomas",
+      "target": "conf_ep50_covert_conspiracy",
+      "relation": "creates_conflict",
+      "weight": 1.0,
+      "episode": 50
+    },
+    {
+      "source": "conf_ep50_covert_conspiracy",
+      "target": "conseq_ep50_witnessed_by_agnes",
+      "relation": "triggers_consequence",
+      "weight": 1.0,
+      "episode": 50
+    }
+  ],
+  "arcs": [
+    {
+      "id": "arc_1",
+      "title": "The Altar Betrayal & The Outcast's Vow",
+      "episode_start": 1,
+      "episode_end": 6,
+      "summary": "Lady Juliana arrives in her late mother's bridal gown only to be abandoned at the altar by Gerald for her sister Clarissa. Stripped of inheritance, she accepts a solemn marriage proposal from a mysterious scarred soldier, Alexander, embracing honorable exile over cruel nobility.",
+      "core_conflict": "Social abandonment & familial betrayal vs quiet dignity",
+      "key_revelations": [
+        "Gerald betrays Juliana for Clarissa with full family blessing",
+        "A scarred, decorated veteran intervenes and marries Juliana",
+        "Juliana is disowned with only her mother's medicinal ledger"
+      ],
+      "emotional_tone": "Humiliation, Defiance, Hopeful Resilience",
+      "prominence_weight": 1.2
+    },
+    {
+      "id": "arc_2",
+      "title": "Cottage Trials & The Blackthorn Ordeal",
+      "episode_start": 7,
+      "episode_end": 17,
+      "summary": "Gerald and Clarissa persecute the newlyweds at their woodland cottage. Clarissa gives Juliana a sadistic ultimatum: retrieve a signet ring barehanded from blackthorn briars or watch Alexander hang. Juliana endures the lacerations, cementing Alexander's fierce protective loyalty.",
+      "core_conflict": "Cruel aristocratic harassment vs sacrificial marital devotion",
+      "key_revelations": [
+        "Juliana possesses rare medicinal healing expertise from her late mother",
+        "Clarissa's blackthorn briar torture fails to break Juliana's spirit",
+        "Hired thugs attacking Juliana's garden confess Gerald is the mastermind"
+      ],
+      "emotional_tone": "Cruelty, Sacrificial Love, Protective Vengeance",
+      "prominence_weight": 1.1
+    },
+    {
+      "id": "arc_3",
+      "title": "Arson, Manor Infiltration & The Poisoned Duchess",
+      "episode_start": 18,
+      "episode_end": 28,
+      "summary": "After their cottage is burned to the ground by arsonists, Alexander discovers his usurpers have seized his ducal seat and imprisoned his mother. Juliana disguises herself as a scullery maid to infiltrate Ashbury Manor, discovering Lady Catherine is systematically poisoning the Dowager Duchess with arsenic.",
+      "core_conflict": "Usurpation & covert murder vs daring espionage and healing",
+      "key_revelations": [
+        "Alexander is secretly the presumed-dead Duke of Ashburn",
+        "Rupert and Catherine have usurped the ducal title and poisoned Alexander's mother",
+        "Juliana risks her life to hide an herbal antidote in the forbidden West Wing"
+      ],
+      "emotional_tone": "Danger, Suspense, Uncovering High Treason",
+      "prominence_weight": 1.3
+    },
+    {
+      "id": "arc_4",
+      "title": "Witchcraft Frame-up & The Damp Cell Ordeal",
+      "episode_start": 29,
+      "episode_end": 38,
+      "summary": "Catherine frames Juliana for witchcraft to cover up the arsenic poisoning. Juliana is chained in wet dungeon cells and subjected to psychological and physical torment with a red-hot iron by Catherine, while Alexander's elderly mother escapes through a blizzard to reunite with Alexander.",
+      "core_conflict": "Ruthless tyranny & judicial fabrication vs unyielding moral courage",
+      "key_revelations": [
+        "Maid coerced into false witchcraft testimony against Juliana",
+        "Juliana refuses to break under Catherine's torture in the damp cells",
+        "Alexander's mother escapes through blizzard, revealing Juliana's impending execution"
+      ],
+      "emotional_tone": "Dread, Sadism, Indomitable Will, Brewing Retribution",
+      "prominence_weight": 1.2
+    },
+    {
+      "id": "arc_5",
+      "title": "Cathedral Shattered: The Duke's Retribution",
+      "episode_start": 39,
+      "episode_end": 45,
+      "summary": "As high society gathers for Rupert and Catherine's lavish wedding and Juliana is paraded in chains for execution, an explosion shatters the cathedral gates. Alexander emerges in full ducal regalia, overpowers Rupert, wins the guards' allegiance, and crowns Juliana Duchess of Ashburn.",
+      "core_conflict": "Triumphant justice and rightful return vs arrogant usurpers",
+      "key_revelations": [
+        "Alexander storms the cathedral gates in full ducal regalia",
+        "Royal guards turn and salute Alexander as the true Duke of Ashburn",
+        "Crown intelligence exposes Rupert's treason; Catherine is rejected"
+      ],
+      "emotional_tone": "Triumph, Catharsis, Supreme Vindication, Romance",
+      "prominence_weight": 1.4
+    },
+    {
+      "id": "arc_6",
+      "title": "The Ecclesiastical Challenge & Catherine's Descent",
+      "episode_start": 46,
+      "episode_end": 50,
+      "summary": "The High Priest challenges Alexander and Juliana's marriage license, granting a ten-day ecclesiastical reprieve. Catherine, stripped of rank and reduced to a scullery maid, conspires with corrupt Father Thomas in the manor's abandoned wing, where their treasonous affair is witnessed by Agnes.",
+      "core_conflict": "Institutional corruption & desperate subversion vs rightful sovereignty",
+      "key_revelations": [
+        "High Priest suspends ducal marriage pending ecclesiastical council",
+        "Catherine reduced to servant status, plots revenge with Father Thomas",
+        "Agnes discovers Catherine and Father Thomas in scandalous treasonous intimacy"
+      ],
+      "emotional_tone": "Machiavellian Intrigue, Scandal, Forbidden Secrets, Suspense",
+      "prominence_weight": 1.1
+    }
+  ],
+  "characters": [
+    {
+      "id": "char_juliana",
+      "name": "Lady Juliana",
+      "canonical_name": "Juliana",
+      "role": "Protagonist",
+      "aliases": [
+        "LADY JULIANA",
+        "JULIANA"
+      ],
+      "description": "Resilient, noble-hearted heroine. Possesses medicinal knowledge from her late mother. Betrayed by family, marries a scarred soldier who is secretly the Duke.",
+      "key_traits": [
+        "Resilient",
+        "Defiant",
+        "Compassionate",
+        "Master Herbalist"
+      ],
+      "total_lines": 462,
+      "first_episode": 1
+    },
+    {
+      "id": "char_alexander",
+      "name": "Alexander (Duke of Ashburn)",
+      "canonical_name": "Alexander",
+      "role": "Romantic Lead / Hero",
+      "aliases": [
+        "MYSTERIOUS BEARDED MAN",
+        "ALEXANDER",
+        "THE BEARDED STRANGER"
+      ],
+      "description": "War-scarred decorated veteran and rightful Duke of Ashburn. Protects Juliana with lethal combat skill and supreme devotion.",
+      "key_traits": [
+        "Stoic",
+        "Lethal",
+        "Deeply Loyal",
+        "Rightful Duke"
+      ],
+      "total_lines": 245,
+      "first_episode": 3
+    },
+    {
+      "id": "char_catherine",
+      "name": "Lady Catherine",
+      "canonical_name": "Catherine",
+      "role": "Lead Antagonist",
+      "aliases": [
+        "LADY CATHERINE",
+        "CATHERINE"
+      ],
+      "description": "Ruthless, status-obsessed conspirator. Slowly poisons the Dowager Duchess, frames Juliana for witchcraft, and schemes with Father Thomas.",
+      "key_traits": [
+        "Machiavellian",
+        "Cruel",
+        "Ambitious",
+        "Vindictive"
+      ],
+      "total_lines": 196,
+      "first_episode": 20
+    },
+    {
+      "id": "char_gerald",
+      "name": "Gerald Harrington",
+      "canonical_name": "Gerald",
+      "role": "Antagonist",
+      "aliases": [
+        "GERALD",
+        "THE FORMER GROOM"
+      ],
+      "description": "Juliana's vain, treacherous ex-fianc\u00e9 who abandons her at the altar for her sister Clarissa.",
+      "key_traits": [
+        "Vain",
+        "Treacherous",
+        "Cowardly",
+        "Spiteful"
+      ],
+      "total_lines": 48,
+      "first_episode": 1
+    },
+    {
+      "id": "char_clarissa",
+      "name": "Clarissa",
+      "canonical_name": "Clarissa",
+      "role": "Antagonist",
+      "aliases": [
+        "CLARISSA",
+        "LADY IN GOLD GOWN"
+      ],
+      "description": "Juliana's cruel, conceited sister who steals Gerald and tortures Juliana with the blackthorn briar trial.",
+      "key_traits": [
+        "Sadistic",
+        "Conceited",
+        "Spiteful",
+        "Jealous"
+      ],
+      "total_lines": 34,
+      "first_episode": 1
+    },
+    {
+      "id": "char_rupert",
+      "name": "Rupert",
+      "canonical_name": "Rupert",
+      "role": "Antagonist",
+      "aliases": [
+        "RUPERT"
+      ],
+      "description": "Treacherous usurper of the Ashburn dukedom who conspires with Catherine to poison the Duchess.",
+      "key_traits": [
+        "Usurper",
+        "Ruthless",
+        "Treasonable",
+        "Arrogant"
+      ],
+      "total_lines": 22,
+      "first_episode": 20
+    },
+    {
+      "id": "char_duchess",
+      "name": "Dowager Duchess",
+      "canonical_name": "Dowager Duchess",
+      "role": "Ally / Catalyst",
+      "aliases": [
+        "DOWAGER DUCHESS",
+        "ALEXANDER'S MOTHER"
+      ],
+      "description": "Alexander's elderly mother, poisoned by Catherine and Rupert. Escapes through a blizzard to reunite with her son.",
+      "key_traits": [
+        "Noble",
+        "Enduring",
+        "Protective Mother"
+      ],
+      "total_lines": 65,
+      "first_episode": 22
+    },
+    {
+      "id": "char_father_thomas",
+      "name": "Father Thomas",
+      "canonical_name": "Father Thomas",
+      "role": "Antagonist",
+      "aliases": [
+        "FATHER THOMAS"
+      ],
+      "description": "Corrupt ecclesiastical authority engaged in illicit romance and treasonous conspiracy with Catherine.",
+      "key_traits": [
+        "Hypocritical",
+        "Corrupt",
+        "Opportunistic"
+      ],
+      "total_lines": 17,
+      "first_episode": 48
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Gerald",
+      "target": "Juliana",
+      "relation_type": "Betrayal",
+      "description": "Gerald humiliates Juliana at the altar to marry Clarissa.",
+      "dynamics": "Cruel abandonment followed by spiteful harassment"
+    },
+    {
+      "source": "Alexander",
+      "target": "Juliana",
+      "relation_type": "Spousal & Romance",
+      "description": "Solemn marriage forged in exile, maturing into fierce protective love.",
+      "dynamics": "Deep tenderness, mutual sacrifice, and protective vengeance"
+    },
+    {
+      "source": "Clarissa",
+      "target": "Juliana",
+      "relation_type": "Rivalry & Sadism",
+      "description": "Jealous sister who steals Gerald and inflicts the blackthorn briar ordeal.",
+      "dynamics": "Vindictive sibling cruelty vs unshakeable moral strength"
+    },
+    {
+      "source": "Catherine",
+      "target": "Juliana",
+      "relation_type": "Mortal Enmity",
+      "description": "Catherine poisons Alexander's mother and frames Juliana for witchcraft.",
+      "dynamics": "Dungeon interrogation, hot-iron torture, and public trial"
+    },
+    {
+      "source": "Rupert",
+      "target": "Alexander",
+      "relation_type": "Usurpation",
+      "description": "Rupert steals Alexander's dukedom and attempts to execute his wife.",
+      "dynamics": "High treason broken by Alexander's armed cathedral return"
+    },
+    {
+      "source": "Catherine",
+      "target": "Father Thomas",
+      "relation_type": "Treasonous Affair",
+      "description": "Illicit passion and political conspiracy in the abandoned manor wing.",
+      "dynamics": "Sensual corruption, mutual blackmail, and covert subversion"
+    }
+  ]
+}
