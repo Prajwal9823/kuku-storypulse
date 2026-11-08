@@ -1,0 +1,3252 @@
+[
+  {
+    "candidate_id": "cand_ep001_011_035",
+    "duration": 24.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:35.30",
+        "duration": 24.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_037",
+    "duration": 26.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:37.70",
+        "duration": 26.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_039",
+    "duration": 27.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:39.00",
+        "duration": 27.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_041",
+    "duration": 30.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:41.50",
+        "duration": 30.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_041",
+    "duration": 29.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:41.20",
+        "duration": 29.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_043",
+    "duration": 32.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:43.90",
+        "duration": 32.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_043",
+    "duration": 31.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:43.10",
+        "duration": 31.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_050",
+    "duration": 39.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:50.40",
+        "duration": 39.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_050",
+    "duration": 38.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:50.00",
+        "duration": 38.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_054",
+    "duration": 43.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:54.60",
+        "duration": 43.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_057",
+    "duration": 46.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:57.60",
+        "duration": 46.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_056",
+    "duration": 45.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "00:56.90",
+        "duration": 45.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_060",
+    "duration": 48.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:00.00",
+        "duration": 48.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_063",
+    "duration": 51.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:03.00",
+        "duration": 51.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_061",
+    "duration": 50.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:01.80",
+        "duration": 50.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_066",
+    "duration": 54.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:06.00",
+        "duration": 54.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_065",
+    "duration": 54.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:05.60",
+        "duration": 54.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_068",
+    "duration": 57.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.30",
+        "end": "01:08.80",
+        "duration": 57.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_081",
+    "duration": 21.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:21.40",
+        "duration": 21.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_086",
+    "duration": 25.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:26.00",
+        "duration": 25.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_089",
+    "duration": 29.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:29.50",
+        "duration": 29.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_088",
+    "duration": 28.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:28.90",
+        "duration": 28.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_090",
+    "duration": 30.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:30.80",
+        "duration": 30.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_091",
+    "duration": 31.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:31.90",
+        "duration": 31.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_095",
+    "duration": 35.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:35.50",
+        "duration": 35.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_098",
+    "duration": 38.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:38.60",
+        "duration": 38.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_098",
+    "duration": 38.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:38.20",
+        "duration": 38.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_101",
+    "duration": 41.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:41.50",
+        "duration": 41.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_105",
+    "duration": 44.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:45.00",
+        "duration": 44.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_107",
+    "duration": 47.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:47.40",
+        "duration": 47.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_107",
+    "duration": 47.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:47.30",
+        "duration": 47.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_110",
+    "duration": 50.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:50.80",
+        "duration": 50.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_113",
+    "duration": 52.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:53.00",
+        "duration": 52.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_115",
+    "duration": 55.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:55.70",
+        "duration": 55.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_060_119",
+    "duration": 58.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:00.10",
+        "end": "01:59.00",
+        "duration": 58.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_098",
+    "duration": 23.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:38.60",
+        "duration": 23.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_101",
+    "duration": 26.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:41.50",
+        "duration": 26.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_105",
+    "duration": 30.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:45.00",
+        "duration": 30.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_107",
+    "duration": 32.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:47.40",
+        "duration": 32.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_107",
+    "duration": 32.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:47.30",
+        "duration": 32.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_110",
+    "duration": 35.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:50.80",
+        "duration": 35.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_113",
+    "duration": 38.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:53.00",
+        "duration": 38.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_115",
+    "duration": 40.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:55.70",
+        "duration": 40.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_119",
+    "duration": 44.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "01:59.00",
+        "duration": 44.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_122",
+    "duration": 47.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:02.50",
+        "duration": 47.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_122",
+    "duration": 47.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:02.30",
+        "duration": 47.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_124",
+    "duration": 49.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:04.20",
+        "duration": 49.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_127",
+    "duration": 52.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:07.50",
+        "duration": 52.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_131",
+    "duration": 56.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:11.30",
+        "duration": 56.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_075_131",
+    "duration": 56.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:15.00",
+        "end": "02:11.20",
+        "duration": 56.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_054",
+    "duration": 20.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "00:54.60",
+        "duration": 20.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_057",
+    "duration": 23.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "00:57.60",
+        "duration": 23.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_060",
+    "duration": 26.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:00.00",
+        "duration": 26.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_063",
+    "duration": 29.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:03.00",
+        "duration": 29.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_061",
+    "duration": 28.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:01.80",
+        "duration": 28.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_066",
+    "duration": 32.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:06.00",
+        "duration": 32.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_065",
+    "duration": 31.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:05.60",
+        "duration": 31.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_068",
+    "duration": 35.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:08.80",
+        "duration": 35.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_070",
+    "duration": 36.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:10.40",
+        "duration": 36.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_072",
+    "duration": 38.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:12.10",
+        "duration": 38.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_074",
+    "duration": 40.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:14.60",
+        "duration": 40.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_074",
+    "duration": 40.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:14.30",
+        "duration": 40.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_078",
+    "duration": 44.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:18.50",
+        "duration": 44.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_081",
+    "duration": 47.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:21.40",
+        "duration": 47.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_081",
+    "duration": 47.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:21.20",
+        "duration": 47.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_083",
+    "duration": 49.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:23.60",
+        "duration": 49.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_086",
+    "duration": 52.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:26.00",
+        "duration": 52.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_089",
+    "duration": 55.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:29.50",
+        "duration": 55.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_088",
+    "duration": 55.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:28.90",
+        "duration": 55.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_033_090",
+    "duration": 57.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:33.80",
+        "end": "01:30.80",
+        "duration": 57.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_068",
+    "duration": 22.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:08.80",
+        "duration": 22.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_072",
+    "duration": 25.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:12.10",
+        "duration": 25.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_074",
+    "duration": 27.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:14.60",
+        "duration": 27.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_074",
+    "duration": 27.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:14.30",
+        "duration": 27.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_078",
+    "duration": 31.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:18.50",
+        "duration": 31.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_081",
+    "duration": 34.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:21.40",
+        "duration": 34.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_081",
+    "duration": 34.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:21.20",
+        "duration": 34.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_083",
+    "duration": 36.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:23.60",
+        "duration": 36.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_086",
+    "duration": 39.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:26.00",
+        "duration": 39.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_089",
+    "duration": 42.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:29.50",
+        "duration": 42.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_088",
+    "duration": 42.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:28.90",
+        "duration": 42.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_090",
+    "duration": 44.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:30.80",
+        "duration": 44.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_091",
+    "duration": 45.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:31.90",
+        "duration": 45.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_095",
+    "duration": 48.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:35.50",
+        "duration": 48.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_098",
+    "duration": 51.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:38.60",
+        "duration": 51.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_098",
+    "duration": 51.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:38.20",
+        "duration": 51.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_101",
+    "duration": 54.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:41.50",
+        "duration": 54.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_046_105",
+    "duration": 58.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:46.80",
+        "end": "01:45.00",
+        "duration": 58.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_035",
+    "duration": 24.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:35.30",
+        "duration": 24.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_037",
+    "duration": 26.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:37.70",
+        "duration": 26.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_039",
+    "duration": 28.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:39.00",
+        "duration": 28.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_041",
+    "duration": 30.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:41.50",
+        "duration": 30.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_041",
+    "duration": 30.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:41.20",
+        "duration": 30.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_043",
+    "duration": 32.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:43.90",
+        "duration": 32.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_043",
+    "duration": 32.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:43.10",
+        "duration": 32.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_050",
+    "duration": 39.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:50.40",
+        "duration": 39.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_050",
+    "duration": 39.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:50.00",
+        "duration": 39.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_054",
+    "duration": 43.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:54.60",
+        "duration": 43.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_057",
+    "duration": 46.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:57.60",
+        "duration": 46.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_056",
+    "duration": 45.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "00:56.90",
+        "duration": 45.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_060",
+    "duration": 49.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:00.00",
+        "duration": 49.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_063",
+    "duration": 52.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:03.00",
+        "duration": 52.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_061",
+    "duration": 50.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:01.80",
+        "duration": 50.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_066",
+    "duration": 55.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:06.00",
+        "duration": 55.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_065",
+    "duration": 54.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:05.60",
+        "duration": 54.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_011_068",
+    "duration": 57.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:11.00",
+        "end": "01:08.80",
+        "duration": 57.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_050",
+    "duration": 20.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "00:50.40",
+        "duration": 20.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_054",
+    "duration": 24.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "00:54.60",
+        "duration": 24.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_057",
+    "duration": 27.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "00:57.60",
+        "duration": 27.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_056",
+    "duration": 27.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "00:56.90",
+        "duration": 27.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_060",
+    "duration": 30.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:00.00",
+        "duration": 30.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_063",
+    "duration": 33.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:03.00",
+        "duration": 33.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_061",
+    "duration": 32.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:01.80",
+        "duration": 32.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_066",
+    "duration": 36.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:06.00",
+        "duration": 36.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_065",
+    "duration": 35.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:05.60",
+        "duration": 35.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_068",
+    "duration": 39.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:08.80",
+        "duration": 39.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_070",
+    "duration": 40.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:10.40",
+        "duration": 40.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_072",
+    "duration": 42.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:12.10",
+        "duration": 42.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_074",
+    "duration": 44.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:14.60",
+        "duration": 44.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_074",
+    "duration": 44.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:14.30",
+        "duration": 44.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_078",
+    "duration": 48.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:18.50",
+        "duration": 48.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_081",
+    "duration": 51.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:21.40",
+        "duration": 51.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_081",
+    "duration": 51.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:21.20",
+        "duration": 51.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_083",
+    "duration": 53.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:23.60",
+        "duration": 53.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_086",
+    "duration": 56.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:26.00",
+        "duration": 56.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_089",
+    "duration": 59.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:29.50",
+        "duration": 59.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_029_088",
+    "duration": 59.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:29.80",
+        "end": "01:28.90",
+        "duration": 59.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_063",
+    "duration": 24.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:03.00",
+        "duration": 24.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_061",
+    "duration": 22.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:01.80",
+        "duration": 22.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_066",
+    "duration": 27.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:06.00",
+        "duration": 27.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_065",
+    "duration": 26.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:05.60",
+        "duration": 26.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_068",
+    "duration": 29.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:08.80",
+        "duration": 29.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_070",
+    "duration": 31.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:10.40",
+        "duration": 31.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_072",
+    "duration": 33.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:12.10",
+        "duration": 33.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_074",
+    "duration": 35.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:14.60",
+        "duration": 35.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_074",
+    "duration": 35.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:14.30",
+        "duration": 35.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_078",
+    "duration": 39.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:18.50",
+        "duration": 39.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_081",
+    "duration": 42.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:21.40",
+        "duration": 42.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_081",
+    "duration": 42.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:21.20",
+        "duration": 42.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_083",
+    "duration": 44.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:23.60",
+        "duration": 44.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_086",
+    "duration": 47.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:26.00",
+        "duration": 47.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_089",
+    "duration": 50.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:29.50",
+        "duration": 50.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_088",
+    "duration": 49.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:28.90",
+        "duration": 49.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_090",
+    "duration": 51.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:30.80",
+        "duration": 51.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_091",
+    "duration": 52.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:31.90",
+        "duration": 52.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_095",
+    "duration": 56.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:35.50",
+        "duration": 56.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_098",
+    "duration": 59.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:38.60",
+        "duration": 59.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_098",
+    "duration": 59.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.00",
+        "end": "01:38.20",
+        "duration": 59.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_063",
+    "duration": 23.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:03.00",
+        "duration": 23.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_061",
+    "duration": 22.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:01.80",
+        "duration": 22.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_066",
+    "duration": 26.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:06.00",
+        "duration": 26.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_065",
+    "duration": 26.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:05.60",
+        "duration": 26.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_068",
+    "duration": 29.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:08.80",
+        "duration": 29.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_070",
+    "duration": 31.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:10.40",
+        "duration": 31.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_072",
+    "duration": 33.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:12.10",
+        "duration": 33.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_074",
+    "duration": 35.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:14.60",
+        "duration": 35.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_074",
+    "duration": 35.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:14.30",
+        "duration": 35.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_078",
+    "duration": 39.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:18.50",
+        "duration": 39.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_081",
+    "duration": 42.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:21.40",
+        "duration": 42.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_081",
+    "duration": 42.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:21.20",
+        "duration": 42.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_083",
+    "duration": 44.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:23.60",
+        "duration": 44.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_086",
+    "duration": 46.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:26.00",
+        "duration": 46.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_089",
+    "duration": 50.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:29.50",
+        "duration": 50.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_088",
+    "duration": 49.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:28.90",
+        "duration": 49.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_090",
+    "duration": 51.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:30.80",
+        "duration": 51.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_091",
+    "duration": 52.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:31.90",
+        "duration": 52.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_095",
+    "duration": 56.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:35.50",
+        "duration": 56.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_098",
+    "duration": 59.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:38.60",
+        "duration": 59.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_039_098",
+    "duration": 59.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:39.10",
+        "end": "01:38.20",
+        "duration": 59.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_089",
+    "duration": 23.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:29.50",
+        "duration": 23.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_090",
+    "duration": 24.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:30.80",
+        "duration": 24.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_091",
+    "duration": 25.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:31.90",
+        "duration": 25.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_095",
+    "duration": 29.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:35.50",
+        "duration": 29.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_098",
+    "duration": 32.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:38.60",
+        "duration": 32.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_098",
+    "duration": 31.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:38.20",
+        "duration": 31.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_101",
+    "duration": 35.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:41.50",
+        "duration": 35.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_105",
+    "duration": 38.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:45.00",
+        "duration": 38.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_107",
+    "duration": 40.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:47.40",
+        "duration": 40.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_107",
+    "duration": 40.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:47.30",
+        "duration": 40.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_110",
+    "duration": 44.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:50.80",
+        "duration": 44.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_113",
+    "duration": 46.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:53.00",
+        "duration": 46.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_115",
+    "duration": 49.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:55.70",
+        "duration": 49.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_119",
+    "duration": 52.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "01:59.00",
+        "duration": 52.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_122",
+    "duration": 56.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "02:02.50",
+        "duration": 56.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_122",
+    "duration": 55.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "02:02.30",
+        "duration": 55.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_066_124",
+    "duration": 57.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "01:06.50",
+        "end": "02:04.20",
+        "duration": 57.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_020",
+    "duration": 20.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:20.50",
+        "duration": 20.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_023",
+    "duration": 23.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:23.60",
+        "duration": 23.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_025",
+    "duration": 25.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:25.50",
+        "duration": 25.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_035",
+    "duration": 35.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:35.30",
+        "duration": 35.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_035",
+    "duration": 35.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:35.00",
+        "duration": 35.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_037",
+    "duration": 37.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:37.70",
+        "duration": 37.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_039",
+    "duration": 39.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:39.00",
+        "duration": 39.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_041",
+    "duration": 41.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:41.50",
+        "duration": 41.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_041",
+    "duration": 41.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:41.20",
+        "duration": 41.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_043",
+    "duration": 43.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:43.90",
+        "duration": 43.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_043",
+    "duration": 43.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:43.10",
+        "duration": 43.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_050",
+    "duration": 50.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:50.40",
+        "duration": 50.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_050",
+    "duration": 50.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:50.00",
+        "duration": 50.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_054",
+    "duration": 54.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:54.60",
+        "duration": 54.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_057",
+    "duration": 57.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:57.60",
+        "duration": 57.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_056",
+    "duration": 56.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "00:56.90",
+        "duration": 56.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep001_000_060",
+    "duration": 60.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 1,
+        "start": "00:00.00",
+        "end": "01:00.00",
+        "duration": 60.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_023",
+    "duration": 23.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:23.70",
+        "duration": 23.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_027",
+    "duration": 27.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:27.60",
+        "duration": 27.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_027",
+    "duration": 27.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:27.40",
+        "duration": 27.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_030",
+    "duration": 30.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:30.50",
+        "duration": 30.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_032",
+    "duration": 32.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:32.40",
+        "duration": 32.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_034",
+    "duration": 34.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:34.20",
+        "duration": 34.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_037",
+    "duration": 37.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:37.10",
+        "duration": 37.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_042",
+    "duration": 42.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:42.30",
+        "duration": 42.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_044",
+    "duration": 44.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:44.80",
+        "duration": 44.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_044",
+    "duration": 44.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:44.70",
+        "duration": 44.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_047",
+    "duration": 47.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:47.60",
+        "duration": 47.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_047",
+    "duration": 47.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:47.40",
+        "duration": 47.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_051",
+    "duration": 51.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:51.40",
+        "duration": 51.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_053",
+    "duration": 53.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:53.20",
+        "duration": 53.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_056",
+    "duration": 56.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:56.70",
+        "duration": 56.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_000_058",
+    "duration": 58.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:00.00",
+        "end": "00:58.20",
+        "duration": 58.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_027",
+    "duration": 22.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:27.60",
+        "duration": 22.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_030",
+    "duration": 25.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:30.50",
+        "duration": 25.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_032",
+    "duration": 27.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:32.40",
+        "duration": 27.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_034",
+    "duration": 29.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:34.20",
+        "duration": 29.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_037",
+    "duration": 32.4,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:37.10",
+        "duration": 32.4
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_042",
+    "duration": 37.6,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:42.30",
+        "duration": 37.6
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_044",
+    "duration": 40.1,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:44.80",
+        "duration": 40.1
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_044",
+    "duration": 40.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:44.70",
+        "duration": 40.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_047",
+    "duration": 42.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:47.60",
+        "duration": 42.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_047",
+    "duration": 42.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:47.40",
+        "duration": 42.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_051",
+    "duration": 46.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:51.40",
+        "duration": 46.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_053",
+    "duration": 48.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:53.20",
+        "duration": 48.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_056",
+    "duration": 52.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:56.70",
+        "duration": 52.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_058",
+    "duration": 53.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "00:58.20",
+        "duration": 53.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_060",
+    "duration": 55.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "01:00.50",
+        "duration": 55.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_004_063",
+    "duration": 58.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:04.70",
+        "end": "01:03.50",
+        "duration": 58.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_058",
+    "duration": 20.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "00:58.20",
+        "duration": 20.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_063",
+    "duration": 26.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:03.50",
+        "duration": 26.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_065",
+    "duration": 28.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:05.80",
+        "duration": 28.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_069",
+    "duration": 31.8,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:09.30",
+        "duration": 31.8
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_072",
+    "duration": 35.2,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:12.70",
+        "duration": 35.2
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_074",
+    "duration": 36.7,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:14.20",
+        "duration": 36.7
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_076",
+    "duration": 39.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:16.50",
+        "duration": 39.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_076",
+    "duration": 38.9,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:16.40",
+        "duration": 38.9
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_079",
+    "duration": 41.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:19.00",
+        "duration": 41.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_081",
+    "duration": 44.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:21.80",
+        "duration": 44.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_082",
+    "duration": 45.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:22.50",
+        "duration": 45.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_086",
+    "duration": 49.0,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:26.50",
+        "duration": 49.0
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_090",
+    "duration": 53.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:30.80",
+        "duration": 53.3
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_093",
+    "duration": 55.5,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:33.00",
+        "duration": 55.5
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_ep002_037_096",
+    "duration": 59.3,
+    "is_multi_segment": false,
+    "segments": [
+      {
+        "ep": 2,
+        "start": "00:37.50",
+        "end": "01:36.80",
+        "duration": 59.3
+      }
+    ]
+  }
+]

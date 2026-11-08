@@ -1,0 +1,22 @@
+{
+  "run_id": "run_20261107_180708_4174a1",
+  "timestamp": "2026-11-07T18:07:09.543775",
+  "show_title": "I Married a Broken Soldier. He was a Duke",
+  "total_episodes": 50,
+  "total_runtime_seconds": 6162.62,
+  "config": {
+    "diversity_weight": 0.45,
+    "weights": {
+      "hook": 0.22,
+      "cliffhanger": 0.22,
+      "standalone": 0.18,
+      "emotion": 0.12,
+      "conflict": 0.1,
+      "visual": 0.08,
+      "novelty": 0.08
+    },
+    "min_duration": 20.0,
+    "max_duration": 60.0,
+    "top_k": 15
+  }
+}
